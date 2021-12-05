@@ -1,0 +1,15 @@
+.container-cities {
+  background: #D2E5E9;
+  border-radius: 10px;
+  height: 80vh;
+  width: 46vw;
+}
+
+.container-cities h2 {
+  text-align: center;
+}
+
+.container-list-cities {
+  margin: auto;
+  width: 90%;
+}

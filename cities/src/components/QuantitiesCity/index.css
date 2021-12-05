@@ -1,0 +1,22 @@
+.container-quantities-cities {
+    width: 90%;
+    height: 60px;
+    display: flex;
+    margin: auto;
+    margin-top: 2vh;
+    align-items: center;
+}
+
+.container-quantities-cities p {
+    padding-left: 10px;
+    color: antiquewhite;
+    font-weight: bold;
+}
+
+.cities-ok {
+    background-color: rgba(57, 187, 55, 0.63);
+}
+
+.no-cities {
+    background-color: rgba(187, 55, 55, 0.63);
+}

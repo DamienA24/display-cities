@@ -1,0 +1,19 @@
+.container-city {
+    background-color: rgba(22, 28, 41, 0.63);
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.container-city .city {
+    font-weight: bold;
+    color: antiquewhite;
+    padding-left: 5px;
+}
+
+.container-city .postalCode {
+    font-weight: bold;
+    color: #8C8F9A;
+    padding-right: 5px;
+}
