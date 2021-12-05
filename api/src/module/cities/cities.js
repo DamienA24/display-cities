@@ -24,6 +24,6 @@ export const getCities = async (code) => {
   }
   return {
     success: false,
-    data: {},
+    data: { metropole: [], dom: [] },
   };
 };
