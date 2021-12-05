@@ -19,4 +19,5 @@ Partie manquante du projet (manque de temps) :
 
 - Finir le CSS
 - Deploy en ligne
+- Ajout des tests
  
